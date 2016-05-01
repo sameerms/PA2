@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="register_customer">register_customer</a></td></tr>
+<tr><td><a href="sign_in_negative">Sign_in_negative</a></td></tr>
+<tr><td><a href="sign_in">sign_in</a></td></tr>
+<tr><td><a href="change_password">change_password</a></td></tr>
+<tr><td><a href="check_empty_cart">check_empty_cart</a></td></tr>
+<tr><td><a href="Select_products">Select_products</a></td></tr>
+<tr><td><a href="check_cart">Check_cart</a></td></tr>
+<tr><td><a href="continue_shopping">continue_shopping</a></td></tr>
+<tr><td><a href="change_quantity">change_quantity</a></td></tr>
+<tr><td><a href="remove_1item">remove_item</a></td></tr>
+<tr><td><a href="checkout">Checkout</a></td></tr>
+<tr><td><a href="finalize_order">Finalize_order</a></td></tr>
+<tr><td><a href="sign_out">Sign_out</a></td></tr>
+</tbody></table>
+</body>
+</html>
